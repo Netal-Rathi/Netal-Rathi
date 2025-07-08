@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | AWS Cloud Practitioner | AI/ML + Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3EB1C8&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Java+%7C+Next.js+%7C+Spring+Boot+%7C+AWS+%7C+MERN+Stack;I+love+building+real-world+projects+with+AI+and+cloud+integration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3EB1C8&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Java+%7C+Next.js+%7C+Spring+Boot+%7C+AWS+%7C+MERN+Stack;building+real-world+projects+with+AI+and+cloud+integration!" alt="Typing SVG" />
 </p>
 
 ---
